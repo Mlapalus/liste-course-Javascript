@@ -1,0 +1,7 @@
+public/*
+!public/index.html
+node_modules/
+.cache/
+coverage/
+
+.DS_Store
